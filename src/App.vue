@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-[url('assets/imgs/bg.png')] bg-cover bg-center h-screen
+    class="bg-[url('./assets/imgs/bg.png')] bg-cover bg-center h-screen
      text-white p-2 flex overflow-hidden" v-if="data">
     <!-- 左 -->
     <div class="flex-1 mr-2 bg-opacity-50 bg-slate-800 p-3 flex flex-col">
