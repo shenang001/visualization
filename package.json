@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vitejs/plugin-legacy": "^4.1.1",
     "axios": "^1.4.0",
     "countup.js": "^2.6.2",
     "echarts": "^5.4.2",
